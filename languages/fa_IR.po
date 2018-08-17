@@ -1,0 +1,2424 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-11-13 19:30+0330\n"
+"PO-Revision-Date: 2016-11-17 20:34+0330\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: fa_IR\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../core/menus.php:16
+msgid "Main Menu"
+msgstr "منوی اصلی"
+
+#: ../core/menus.php:17 ../core/admin/helpers.php:434
+msgid "Social Menu"
+msgstr "منوی اجتماعی"
+
+#: ../core/menus.php:18 ../core/admin/helpers.php:432
+msgid "Secondary Menu 1"
+msgstr "منو ثانویه 1"
+
+#: ../core/menus.php:19 ../core/admin/helpers.php:433
+msgid "Secondary Menu 2"
+msgstr "منو ثانویه 2"
+
+#: ../core/menus.php:109
+msgid "Automatically display category posts in submenu"
+msgstr "نمایش به صورت خودکار دسته پست در منوها"
+
+#: ../core/modules.php:17 ../core/widgets/posts.php:13
+msgid "Posts"
+msgstr "پست ها"
+
+#: ../core/modules.php:41 ../core/admin/metaboxes/page.php:392
+msgid "Text"
+msgstr "متن"
+
+#: ../core/modules.php:75
+msgid "Simple"
+msgstr "ساده"
+
+#: ../core/modules.php:75
+msgid "Combo"
+msgstr "کمبو"
+
+#: ../core/modules.php:75
+msgid "Slider"
+msgstr "اسلایدر"
+
+#: ../core/sidebars.php:21
+msgid "Default Sidebar"
+msgstr "سایدبار پیش فرض"
+
+#: ../core/sidebars.php:22
+msgid "This is default sidebar."
+msgstr "این سایدبار پیش فرض است."
+
+#: ../core/sidebars.php:34
+msgid "Default Sticky Sidebar"
+msgstr "سایدبار مهم پیش فرض"
+
+#: ../core/sidebars.php:35
+msgid ""
+"This is default sticky sidebar. Sticky means that it will be always pinned "
+"to top while you are scrolling through your website content."
+msgstr ""
+"این سایدبار پیش فرض مهم است که همیشه وقتی شما در سایت اسکرول می کنید مانند "
+"این می شود که این سایدبار به کنار دوخته شده است و همیشه نمایش داده می شود."
+
+#: ../core/sidebars.php:47
+msgid "Header Sidebar"
+msgstr "سایدبار سربرگ"
+
+#: ../core/sidebars.php:48
+msgid "This is open/close sidebar area which you can access in header."
+msgstr ""
+"این باز و بسته کردن سایدبار سربرگ است که شما می توانید از آن استفاده کنید."
+
+#: ../core/sidebars.php:84
+msgid "Footer Column 1"
+msgstr "ستون پاورقی 1"
+
+#: ../core/sidebars.php:85
+msgid "This is footer area column 1."
+msgstr "این منطقه ستون پاورقی 1 است."
+
+#: ../core/sidebars.php:97
+msgid "Footer Column 2"
+msgstr "ستون پاورقی 2"
+
+#: ../core/sidebars.php:98
+msgid "This footer area column 2."
+msgstr "این منطقه ستون پاورقی 2 است."
+
+#: ../core/sidebars.php:111
+msgid "Footer Column 3"
+msgstr "ستون پاورقی 3"
+
+#: ../core/sidebars.php:112
+msgid "This footer area column 3."
+msgstr "این منطقه ستون پاورقی 3 است."
+
+#: ../core/sidebars.php:124
+msgid "Footer Column 4"
+msgstr "ستون پاورقی 4"
+
+#: ../core/sidebars.php:125
+msgid "This is footer area column 4."
+msgstr "این منطقه ستون پاورقی 4 است."
+
+#: ../core/translate.php:8
+msgid "Add comment"
+msgstr "اضافه کردن نظر"
+
+#: ../core/translate.php:9
+msgid "1 comment"
+msgstr "1 نظر"
+
+#: ../core/translate.php:10
+#, php-format
+msgid "% نظر"
+msgstr ""
+
+#: ../core/translate.php:11
+msgid "views"
+msgstr "بازدید"
+
+#: ../core/translate.php:12
+msgid "min read"
+msgstr "دقیقه خوانده شده"
+
+#: ../core/translate.php:13
+msgid "Category - "
+msgstr "دسته بندی -"
+
+#: ../core/translate.php:14
+msgid "Tag - "
+msgstr "برچسب -"
+
+#: ../core/translate.php:15
+msgid "Author - "
+msgstr "نویسنده -"
+
+#: ../core/translate.php:16
+msgid "Archive - "
+msgstr "بایگانی -"
+
+#: ../core/translate.php:17
+msgid "Type here to search..."
+msgstr "در اینجا تایپ کنید برای جستجو ..."
+
+#: ../core/translate.php:18
+msgid "Search Results For - "
+msgstr "نتایج جستجو برای -"
+
+#: ../core/translate.php:19
+msgid "Newer Entries"
+msgstr "مطالب جدیدتر"
+
+#: ../core/translate.php:20
+msgid "Older Entries"
+msgstr "مطالب قدیمی تر"
+
+#: ../core/translate.php:21
+msgid "Previous"
+msgstr "قبلی"
+
+#: ../core/translate.php:22
+msgid "Next"
+msgstr "بعد"
+
+#: ../core/translate.php:23
+msgid "Load More"
+msgstr "بارگذاری بیشتر"
+
+#: ../core/translate.php:24
+msgid "You may also like"
+msgstr "شما همچنین دوست خواهید"
+
+#: ../core/translate.php:25
+msgid "View all posts"
+msgstr "مشاهده تمام پست ها"
+
+#: ../core/translate.php:26
+msgid "Submit Comment"
+msgstr "ارسال نظر"
+
+#: ../core/translate.php:27
+msgid "Reply"
+msgstr "پاسخ"
+
+#: ../core/translate.php:28
+msgid "404 error: Page not found"
+msgstr "خطای 404: صفحه یافت نشد"
+
+#: ../core/translate.php:29
+msgid ""
+"The page that you are looking for does not exist on this website. You may "
+"have accidentally mistype the page address, or followed an expired link. "
+"Anyway, we will help you get back on track. Why not try to search for the "
+"page you were looking for:"
+msgstr ""
+"صفحه ای که شما به دنبال آن بودید یافت نشد. می توانید از طریق فرم جستجوی زیر "
+"دوباره بررسی کنید و صفحه ای که به دنبال آن بودید را بیابید."
+
+#: ../core/translate.php:30
+msgid ""
+"Sorry, there are no posts found on this page. Feel free to contact website "
+"administrator regarding this issue."
+msgstr ""
+"با عرض پوزش ، هیچ نوشته ای یافت نشد. شما می توانید با مدیر سایت تماس بگیرید."
+
+#: ../core/translate.php:31
+msgid "No results found. Please try again with a different keyword."
+msgstr "نتیجه ای پیدا نشد. لطفا با کلید واژه های مختلف دوباره امتحان کنید."
+
+#: ../core/admin/demo-importer.php:36
+#, php-format
+msgid ""
+"Use this panel to import content from theme demo example(s). Note: If you "
+"want to try multiple demos, please use %s plugin to reset your WordPress "
+"installation after each import and try another demo afterwards."
+msgstr ""
+"با استفاده از این پنل برای وارد کردن محتوا از مثال تم نسخه ی نمایشی (بازدید "
+"کنندگان). توجه: اگر شما می خواهید امتحان کنید دموی های مختلف استفاده کنید %s "
+"پلاگین برای تنظیم مجدد نصب وردپرس خود را بعد از هر واردات و سعی کنید نسخه ی "
+"نمایشی دیگر پس از آن."
+
+#: ../core/admin/demo-importer.php:57
+msgid "Gridlove Default"
+msgstr "گرید لاو پیش فرض"
+
+#: ../core/admin/extensions.php:27
+msgid "Highlight this widget"
+msgstr "های لایت این ویجت"
+
+#: ../core/admin/extensions.php:29
+#, php-format
+msgid "Display widget in <a href=\"%s\">highlight styling</a>."
+msgstr "صفحه نمایش ویجت در <a href=\"%s\"> استایل های لایت</a>."
+
+#: ../core/admin/helpers.php:14 ../core/admin/helpers.php:397
+#: ../core/admin/helpers.php:435
+msgid "Date"
+msgstr "تاریخ"
+
+#: ../core/admin/helpers.php:15
+msgid "Number of comments"
+msgstr "تعداد نظرات"
+
+#: ../core/admin/helpers.php:16
+msgid "Number of views"
+msgstr "تعداد نمایش"
+
+#: ../core/admin/helpers.php:17
+msgid "Title (alphabetically)"
+msgstr "عنوان (بر اساس حروف الفبا)"
+
+#: ../core/admin/helpers.php:18
+msgid "Random"
+msgstr "تصادفی"
+
+#: ../core/admin/helpers.php:37
+msgid "1 Day"
+msgstr "1 روز"
+
+#: ../core/admin/helpers.php:38
+msgid "3 Days"
+msgstr "3 روز"
+
+#: ../core/admin/helpers.php:39
+msgid "1 Week"
+msgstr "1 هفته"
+
+#: ../core/admin/helpers.php:40
+msgid "1 Month"
+msgstr "1 ماه"
+
+#: ../core/admin/helpers.php:41
+msgid "3 Months"
+msgstr "3 ماه"
+
+#: ../core/admin/helpers.php:42
+msgid "6 Months"
+msgstr "6 ماه"
+
+#: ../core/admin/helpers.php:43
+msgid "1 Year"
+msgstr "1 سال"
+
+#: ../core/admin/helpers.php:44
+msgid "All time"
+msgstr "همیشه"
+
+#: ../core/admin/helpers.php:62
+msgid "Standard"
+msgstr "استاندارد"
+
+#: ../core/admin/helpers.php:71
+msgid "All"
+msgstr "همه"
+
+#: ../core/admin/helpers.php:91 ../core/admin/helpers.php:120
+#: ../core/admin/helpers.php:148 ../core/admin/helpers.php:186
+#: ../core/admin/helpers.php:215 ../core/admin/helpers.php:246
+#: ../core/admin/helpers.php:279 ../core/admin/helpers.php:305
+#: ../core/admin/helpers.php:336
+msgid "Inherit"
+msgstr "به ارث می برند"
+
+#: ../core/admin/helpers.php:94
+msgid "Layout A (3 columns)"
+msgstr "طرح A (3 ستون)"
+
+#: ../core/admin/helpers.php:95
+msgid "Layout A (4 columns)"
+msgstr "طرح A (4 ستون)"
+
+#: ../core/admin/helpers.php:96
+msgid "Layout B (1 column)"
+msgstr "طرح B (1 ستون)"
+
+#: ../core/admin/helpers.php:97
+msgid "Layout B (2 columns)"
+msgstr "طرح B (2 ستون)"
+
+#: ../core/admin/helpers.php:98
+msgid "Layout C (3 columns)"
+msgstr "طرح C (3 ستون)"
+
+#: ../core/admin/helpers.php:99
+msgid "Layout C (4 columns)"
+msgstr "طرح C (4 ستون)"
+
+#: ../core/admin/helpers.php:100
+msgid "Layout D (3 columns)"
+msgstr "طرح D (3 ستون)"
+
+#: ../core/admin/helpers.php:101
+msgid "Layout D (4 columns)"
+msgstr "طرح D (4 ستون)"
+
+#: ../core/admin/helpers.php:123 ../core/admin/helpers.php:151
+#: ../core/admin/helpers.php:193 ../core/admin/helpers.php:218
+#: ../core/admin/helpers.php:249 ../core/admin/options-fields.php:80
+#: ../core/admin/options-fields.php:651 ../core/admin/options-fields.php:659
+msgid "Layout 1"
+msgstr "طرح 1"
+
+#: ../core/admin/helpers.php:124 ../core/admin/helpers.php:152
+#: ../core/admin/helpers.php:194 ../core/admin/helpers.php:219
+#: ../core/admin/helpers.php:250 ../core/admin/options-fields.php:81
+#: ../core/admin/options-fields.php:719 ../core/admin/options-fields.php:727
+msgid "Layout 2"
+msgstr "طرح 2"
+
+#: ../core/admin/helpers.php:125 ../core/admin/helpers.php:153
+#: ../core/admin/helpers.php:195 ../core/admin/helpers.php:220
+#: ../core/admin/helpers.php:251 ../core/admin/options-fields.php:82
+#: ../core/admin/options-fields.php:785 ../core/admin/options-fields.php:793
+msgid "Layout 3"
+msgstr "طرح 3"
+
+#: ../core/admin/helpers.php:126 ../core/admin/helpers.php:154
+#: ../core/admin/helpers.php:196 ../core/admin/helpers.php:221
+#: ../core/admin/helpers.php:252 ../core/admin/options-fields.php:83
+#: ../core/admin/options-fields.php:832 ../core/admin/options-fields.php:840
+msgid "Layout 4"
+msgstr "طرح 4"
+
+#: ../core/admin/helpers.php:127 ../core/admin/helpers.php:155
+#: ../core/admin/helpers.php:222 ../core/admin/helpers.php:253
+#: ../core/admin/options-fields.php:84
+msgid "Layout 5"
+msgstr "طرح 5"
+
+#: ../core/admin/helpers.php:128 ../core/admin/helpers.php:156
+#: ../core/admin/helpers.php:223 ../core/admin/helpers.php:254
+#: ../core/admin/options-fields.php:85
+msgid "Layout 6"
+msgstr "طرح 6"
+
+#: ../core/admin/helpers.php:157 ../core/admin/helpers.php:224
+msgid "Layout 7"
+msgstr "طرح 7"
+
+#: ../core/admin/helpers.php:158 ../core/admin/helpers.php:225
+msgid "Layout 8"
+msgstr "طرح 8"
+
+#: ../core/admin/helpers.php:159 ../core/admin/helpers.php:226
+msgid "Layout 9"
+msgstr "طرح 9"
+
+#: ../core/admin/helpers.php:160
+msgid "Layout 10"
+msgstr "طرح 10"
+
+#: ../core/admin/helpers.php:161
+msgid "Layout 11"
+msgstr "طرح 11"
+
+#: ../core/admin/helpers.php:162
+msgid "Layout 12"
+msgstr "طرح 12"
+
+#: ../core/admin/helpers.php:163
+msgid "Layout 13"
+msgstr "طرح 13"
+
+#: ../core/admin/helpers.php:164
+msgid "Layout 14"
+msgstr "طرح 14"
+
+#: ../core/admin/helpers.php:190 ../core/admin/helpers.php:282
+#: ../core/admin/helpers.php:309 ../core/admin/helpers.php:339
+#: ../core/admin/helpers.php:436
+msgid "None"
+msgstr "هیچ"
+
+#: ../core/admin/helpers.php:283
+msgid "Left sidebar"
+msgstr "ستون کناری سمت چپ"
+
+#: ../core/admin/helpers.php:284
+msgid "Right sidebar"
+msgstr "نوار کناری سمت راست"
+
+#: ../core/admin/helpers.php:312
+msgid "Numeric pagination links"
+msgstr "لینک های صفحه بندی عددی"
+
+#: ../core/admin/helpers.php:313
+msgid "Prev/Next page links"
+msgstr "لینک صفحه قبلی / بعدی"
+
+#: ../core/admin/helpers.php:314
+msgid "Load more button"
+msgstr "بارگذاری دکمه بیشتر"
+
+#: ../core/admin/helpers.php:315
+msgid "Infinite scroll"
+msgstr "اسکرول بی نهایت"
+
+#: ../core/admin/helpers.php:396
+msgid "Author"
+msgstr "نویسنده"
+
+#: ../core/admin/helpers.php:398
+msgid "Comments"
+msgstr "نظرات"
+
+#: ../core/admin/helpers.php:399
+msgid "Views"
+msgstr "بازدید"
+
+#: ../core/admin/helpers.php:400
+msgid "Reading time"
+msgstr "زمان خوانده شده"
+
+#: ../core/admin/options-fields.php:6
+msgid "Branding"
+msgstr "نام تجاری"
+
+#: ../core/admin/options-fields.php:7
+msgid "Personalize theme by adding your own images"
+msgstr "فرد تم با اضافه کردن تصاویر خود را"
+
+#: ../core/admin/options-fields.php:14
+msgid "Logo"
+msgstr "لوگو"
+
+#: ../core/admin/options-fields.php:15
+msgid ""
+"Upload your logo image here, or leave empty to show the website title "
+"instead."
+msgstr ""
+"آپلود تصویر آرم خود را اینجا، و یا ترک خالی جای برای نشان دادن عنوان وب سایت."
+
+#: ../core/admin/options-fields.php:23
+msgid "Retina logo (2x)"
+msgstr "آرم شبکیه چشم (2X)"
+
+#: ../core/admin/options-fields.php:24
+msgid ""
+"Optionally upload another logo for devices with retina displays. It should "
+"be double the size of your standard logo"
+msgstr ""
+"در صورت تمایل آرم دیگر برای دستگاه های با صفحه نمایش شبکیه چشم را بارگذاری "
+"کنید. باید به دو برابر اندازه آرم استاندارد خود را"
+
+#: ../core/admin/options-fields.php:32
+msgid "Mini logo"
+msgstr "لوگو کوچک"
+
+#: ../core/admin/options-fields.php:33
+msgid "Optionally upload another logo which may be used as mobile/tablet logo"
+msgstr ""
+"در صورت تمایل آپلود آرم دیگری که ممکن است به عنوان تلفن همراه / قرص آرم "
+"استفاده می شود"
+
+#: ../core/admin/options-fields.php:41
+msgid "Mini retina logo (2x)"
+msgstr "آرم شبکیه کوتاه (2X)"
+
+#: ../core/admin/options-fields.php:42
+msgid "Upload double sized mini logo for devices with retina displays"
+msgstr "آپلود دو آرم در اندازه مینی برای دستگاه های با صفحه نمایش شبکیه چشم"
+
+#: ../core/admin/options-fields.php:50
+msgid "Default featured image"
+msgstr "به طور پیش فرض تصویر برجسته"
+
+#: ../core/admin/options-fields.php:51
+msgid ""
+"Upload your default featured image/placeholder. It will be displayed for "
+"posts that do not have a featured image set."
+msgstr ""
+"آپلود به طور پیش فرض تصویر برجسته / حفره یا سوراخ خود را. از آن خواهد شد "
+"برای پست هایی که یک مجموعه تصویر برجسته ندارد نمایش داده شود."
+
+#: ../core/admin/options-fields.php:61
+msgid "Header"
+msgstr "سربرگ"
+
+#: ../core/admin/options-fields.php:69
+msgid "Main"
+msgstr "اصلی"
+
+#: ../core/admin/options-fields.php:70
+msgid "Modify and style your main header area"
+msgstr "استایل و اصلاح منطقه هدر اصلی خود را"
+
+#: ../core/admin/options-fields.php:77
+msgid "Header layout"
+msgstr "طرح سربرگ"
+
+#: ../core/admin/options-fields.php:78
+msgid "Choose a layout for your header"
+msgstr "انتخاب طرح برای هدر خود را"
+
+#: ../core/admin/options-fields.php:94
+msgid "Enable site desciprition"
+msgstr "فعال کردن توضیحات سایت"
+
+#: ../core/admin/options-fields.php:95
+msgid "Check if you want to display site description below logo"
+msgstr "اگر شما می خواهید برای نشان توضیحات سایت زیر آرم"
+
+#: ../core/admin/options-fields.php:104
+msgid "Enable special elements in header"
+msgstr "فعال کردن عناصر خاص در هدر"
+
+#: ../core/admin/options-fields.php:105
+msgid "Check and reorder special elements you want to display"
+msgstr "بررسی و دوباره مرتب کردن عناصر خاص شما می خواهید برای نشان"
+
+#: ../core/admin/options-fields.php:108
+msgid "Search button"
+msgstr "دکمه جستجو"
+
+#: ../core/admin/options-fields.php:109
+msgid "Header Sidebar button"
+msgstr "دکمه سربرگ نوار"
+
+#: ../core/admin/options-fields.php:110
+msgid "Search form"
+msgstr "فرم جستجو"
+
+#: ../core/admin/options-fields.php:111
+msgid "Social menu button"
+msgstr "دکمه منو اجتماعی"
+
+#: ../core/admin/options-fields.php:112
+msgid "Social menu icons list"
+msgstr "لیست آیکون های منو اجتماعی"
+
+#: ../core/admin/options-fields.php:131
+msgid "Height"
+msgstr "ارتفاع"
+
+#: ../core/admin/options-fields.php:132
+msgid "Specify height for your main header area"
+msgstr "مشخص ارتفاع برای منطقه هدر اصلی خود را"
+
+#: ../core/admin/options-fields.php:133
+msgid "Note: Height value is in px."
+msgstr "توجه: مقدار ارتفاع در پیکسل است."
+
+#: ../core/admin/options-fields.php:141 ../core/admin/options-fields.php:254
+#: ../core/admin/options-fields.php:365 ../core/admin/options-fields.php:507
+msgid "Background color"
+msgstr "رنگ پس زمینه"
+
+#: ../core/admin/options-fields.php:150 ../core/admin/options-fields.php:263
+#: ../core/admin/options-fields.php:375 ../core/admin/options-fields.php:441
+#: ../core/admin/options-fields.php:516
+msgid "Text color"
+msgstr "رنگ متن"
+
+#: ../core/admin/options-fields.php:158 ../core/admin/options-fields.php:272
+#: ../core/admin/options-fields.php:384 ../core/admin/options-fields.php:450
+#: ../core/admin/options-fields.php:525
+msgid "Accent color"
+msgstr "رنگ لهجه"
+
+#: ../core/admin/options-fields.php:166
+msgid "Bottom bar background color"
+msgstr "رنگ پس زمینه نوار پایین"
+
+#: ../core/admin/options-fields.php:175
+msgid "Bottom bar text color"
+msgstr "رنگ متن نوار پایین"
+
+#: ../core/admin/options-fields.php:184
+msgid "Bottom bar accent color"
+msgstr "رنگ لهجه نوار پایین"
+
+#: ../core/admin/options-fields.php:193
+msgid "Enable logo background"
+msgstr "فعال کردن پس زمینه لوگو"
+
+#: ../core/admin/options-fields.php:194
+msgid "Check if you want to add background color to logo area"
+msgstr "اگر شما می خواهید برای اضافه کردن رنگ پس زمینه به منطقه آرم"
+
+#: ../core/admin/options-fields.php:201
+msgid "Logo background color"
+msgstr "رنگ آرم پس زمینه"
+
+#: ../core/admin/options-fields.php:212
+msgid "Header orientation"
+msgstr "گرایش سربرگ"
+
+#: ../core/admin/options-fields.php:213
+msgid "Choose if header elements follow site content or browser width "
+msgstr "را انتخاب کنید اگر عناصر هدر دنبال محتوای سایت و یا عرض مرورگر"
+
+#: ../core/admin/options-fields.php:215
+msgid "Site content"
+msgstr "محتوای سایت"
+
+#: ../core/admin/options-fields.php:216
+msgid "Browser (full width)"
+msgstr "مرورگر (عرض کامل)"
+
+#: ../core/admin/options-fields.php:225
+msgid "Apply bottom shadow"
+msgstr "اعمال سایه پایین"
+
+#: ../core/admin/options-fields.php:226
+msgid "Check if you want to apply bottom shadow to main header bar"
+msgstr "اگر شما می خواهید به درخواست سایه پایین به نوار هدر اصلی"
+
+#: ../core/admin/options-fields.php:237
+msgid "Top Bar"
+msgstr "نوار بالا"
+
+#: ../core/admin/options-fields.php:238
+msgid "Modify and style your header top bar"
+msgstr "اصلاح و سبک هدر نوار بالا را"
+
+#: ../core/admin/options-fields.php:245
+msgid "Header top bar"
+msgstr "نوار بالا سربرگ"
+
+#: ../core/admin/options-fields.php:246
+msgid "Check if you want to enable header top bar"
+msgstr "اگر شما می خواهید برای فعال کردن نوار هدر بالا"
+
+#: ../core/admin/options-fields.php:281
+msgid "Left slot"
+msgstr "اسلات چپ"
+
+#: ../core/admin/options-fields.php:282
+msgid "Choose an element to display in left slot of header top bar"
+msgstr "یک عنصر را برای نمایش در اسلات چپ هدر نوار بالا"
+
+#: ../core/admin/options-fields.php:291
+msgid "Center slot"
+msgstr "اسلات مرکز"
+
+#: ../core/admin/options-fields.php:292
+msgid "Choose an element to display in center slot of header top bar"
+msgstr "یک عنصر را برای نمایش در اسلات مرکز هدر نوار بالا"
+
+#: ../core/admin/options-fields.php:301
+msgid "Right slot"
+msgstr "اسلات راست"
+
+#: ../core/admin/options-fields.php:302
+msgid "Choose an element to display in right slot of header top bar"
+msgstr "یک عنصر را برای نمایش در اسلات سمت چپ عنوان نوار بالا"
+
+#: ../core/admin/options-fields.php:317
+msgid "Sticky Header"
+msgstr "موضوع مهم سربرگ"
+
+#: ../core/admin/options-fields.php:318
+msgid "Modify and style your sticky header area"
+msgstr "استایل و اصلاح منطقه هدر چسبنده خود را"
+
+#: ../core/admin/options-fields.php:325
+msgid "Display sticky header"
+msgstr "نمایش هدر چسبنده"
+
+#: ../core/admin/options-fields.php:326
+msgid "Check if you want to enable sticky header"
+msgstr "اگر شما می خواهید را فعال هدر چسبنده"
+
+#: ../core/admin/options-fields.php:334
+msgid "Sticky header offset"
+msgstr "هدر مهم افست"
+
+#: ../core/admin/options-fields.php:335
+msgid "Specify after how many px of scrolling the sticky header appears"
+msgstr "مشخص پس چگونه بسیاری از پیمایش را هدر چسبنده به نظر می رسد پیکسل"
+
+#: ../core/admin/options-fields.php:344
+msgid "Smart sticky"
+msgstr "هوشمند چسبنده"
+
+#: ../core/admin/options-fields.php:345
+msgid "Sticky header appears only if you scroll up"
+msgstr "هدر مهم به نظر می رسد تنها در صورتی که حرکت به بالا"
+
+#: ../core/admin/options-fields.php:352
+msgid "Choose sticky header colors from"
+msgstr "انتخاب رنگ هدر چسبنده از"
+
+#: ../core/admin/options-fields.php:354
+msgid "Main header colors"
+msgstr "رنگ هدر اصلی"
+
+#: ../core/admin/options-fields.php:355
+msgid "Header bottom bar colors"
+msgstr "سربرگ رنگ نوار پایین"
+
+#: ../core/admin/options-fields.php:356
+msgid "Custom colors"
+msgstr "رنگ های سفارشی"
+
+#: ../core/admin/options-fields.php:397 ../core/admin/metaboxes/page.php:523
+msgid "Content"
+msgstr "محتوا"
+
+#: ../core/admin/options-fields.php:398
+msgid "Manage your main content styling options"
+msgstr "مدیریت گزینه های یک ظاهر طراحی شده محتوای اصلی خود را"
+
+#: ../core/admin/options-fields.php:404
+msgid "Body background color"
+msgstr "رنگ پس زمینه بدن"
+
+#: ../core/admin/options-fields.php:405
+msgid "Specify body background color"
+msgstr "تعیین رنگ پس زمینه بدن"
+
+#: ../core/admin/options-fields.php:414
+msgid "Module heading color"
+msgstr "رنگ ماژول عنوان"
+
+#: ../core/admin/options-fields.php:415
+msgid "This color applies to archive titles and module titles "
+msgstr "این رنگ مربوط به عناوین آرشیو و عناوین ماژول"
+
+#: ../core/admin/options-fields.php:423
+msgid "Content/box background color"
+msgstr "محتوای رنگ پس زمینه / جعبه"
+
+#: ../core/admin/options-fields.php:424
+msgid "Specify main content background color"
+msgstr "مشخص اصلی رنگ پس زمینه محتوا"
+
+#: ../core/admin/options-fields.php:432
+msgid "Content heading color"
+msgstr "رنگ عنوان محتوای"
+
+#: ../core/admin/options-fields.php:433
+msgid "This color applies to post/page titles, widget titles, etc... "
+msgstr "این رنگ مربوط به ارسال / عنوان صفحه، عنوان ویجت، و غیره ..."
+
+#: ../core/admin/options-fields.php:442
+msgid "This color applies to standard text"
+msgstr "این رنگ مربوط به متن استاندارد"
+
+#: ../core/admin/options-fields.php:451
+msgid "This color applies to links, buttons, pagination, etc..."
+msgstr "این رنگ مربوط به لینک ها، دکمه، صفحه بندی، و غیره ..."
+
+#: ../core/admin/options-fields.php:459
+msgid "Meta color"
+msgstr "رنگ متا"
+
+#: ../core/admin/options-fields.php:460
+msgid ""
+"This color applies to miscellaneous elements like post meta data (author "
+"link, date, etc...)"
+msgstr ""
+"این رنگ مربوط به عناصر دیگر مانند داده های ارسال متا (لینک نویسنده، تاریخ، و "
+"غیره ...)"
+
+#: ../core/admin/options-fields.php:468
+msgid "Highlight background color"
+msgstr "رنگ پس زمینه نور"
+
+#: ../core/admin/options-fields.php:469
+msgid "Background color for highlighted elements"
+msgstr "رنگ پس زمینه برای عناصر برجسته"
+
+#: ../core/admin/options-fields.php:477
+msgid "Highlight text color"
+msgstr "رنگ متن برجسته"
+
+#: ../core/admin/options-fields.php:478
+msgid "Text color for highlighted elements"
+msgstr "رنگ متن برای عناصر برجسته"
+
+#: ../core/admin/options-fields.php:485
+msgid "Highlight accent color"
+msgstr "رنگ برجسته لهجه"
+
+#: ../core/admin/options-fields.php:486
+msgid "Accent color for highlighted elements"
+msgstr "رنگ لهجه برای عناصر برجسته"
+
+#: ../core/admin/options-fields.php:500
+msgid "Footer"
+msgstr "پاورقی"
+
+#: ../core/admin/options-fields.php:501
+msgid "Manage options for your footer area"
+msgstr "مدیریت گزینه برای منطقه بالا و پایین خود را"
+
+#: ../core/admin/options-fields.php:508
+msgid "Specify footer background color"
+msgstr "تعیین رنگ پس زمینه بالا و پایین صفحه"
+
+#: ../core/admin/options-fields.php:517
+msgid "This is the standard text color for footer"
+msgstr "این رنگ متن استاندارد برای بالا و پایین صفحه است"
+
+#: ../core/admin/options-fields.php:526
+msgid "This color will apply to buttons, links, etc..."
+msgstr "این رنگ به دکمه ها، لینک ها، و غیره اعمال می شود ..."
+
+#: ../core/admin/options-fields.php:535
+msgid "Display footer widgetized area"
+msgstr "ها فوتر منطقه از ابزارک"
+
+#: ../core/admin/options-fields.php:536
+#, php-format
+msgid ""
+"Check if you want to include footer widgetized area in your theme. You can "
+"manage the footer content in the <a href=\"%s\">Apperance -> Widgets</a> "
+"settings."
+msgstr ""
+"اگر شما می خواهید که شامل منطقه پاورقی از ابزارک در تم خود را. شما می توانید "
+"محتوای بالا و پایین صفحه در مدیریت <a href=\"%s\">نمایش -> ابزارک</a> "
+"تنظیمات."
+
+#: ../core/admin/options-fields.php:543
+msgid "Footer columns"
+msgstr "ستون پاورقی"
+
+#: ../core/admin/options-fields.php:544
+msgid "Choose number of columns to display in footer area"
+msgstr "انتخاب تعداد ستون ها را به نمایش در منطقه بالا و پایین"
+
+#: ../core/admin/options-fields.php:545
+#, php-format
+msgid ""
+"Note: Each column represents one Footer Sidebar in <a href=\"%s\">Apperance -"
+"> Widgets</a> settings."
+msgstr ""
+"توجه داشته باشید: هر ستون نشان دهنده یکی پاورقی نوار در <a href=\"%s\">نمایش "
+"-> ابزارک</a> تنظیمات."
+
+#: ../core/admin/options-fields.php:547
+msgid "1 Column"
+msgstr "1 ستون"
+
+#: ../core/admin/options-fields.php:548
+msgid "2 Columns"
+msgstr "2 ستون"
+
+#: ../core/admin/options-fields.php:549
+msgid "3 Columns"
+msgstr "3 ستون"
+
+#: ../core/admin/options-fields.php:550
+msgid "4 Columns"
+msgstr "4 ستون"
+
+#: ../core/admin/options-fields.php:559
+msgid "Display footer bottom bar"
+msgstr "نمایش دکمه نوار فوتر"
+
+#: ../core/admin/options-fields.php:560
+msgid "Check if you want to display footer bottom bar"
+msgstr "نمایش دکمه نوار فوتر را بررسی کنید"
+
+#: ../core/admin/options-fields.php:567
+msgid "Copyright"
+msgstr "کپی رایت"
+
+#: ../core/admin/options-fields.php:568
+msgid "Specify the copyright text to show at the bottom of the website"
+msgstr "مشخص متن کپی رایت برای نشان دادن در پایین وب سایت"
+
+#: ../core/admin/options-fields.php:569
+msgid ""
+"<p style=\"text-align: center;\">Copyright &copy; 2016. Created by <a href="
+"\"http://mekshq.com\" target=\"_blank\">Meks</a>. Powered by <a href="
+"\"http://www.wordpress.org\" target=\"_blank\">WordPress</a>.</p>"
+msgstr ""
+"<p style=\"text-align: center;\">کپی رایت &copy; 2016 · طراحی توسط :  <a "
+"href=\"http://mekshq.com\" target=\"_blank\">مکس</a> · ترجمه و توسعه یافته "
+"شده توسط : <a href=\"http://www.wpjoomla.ir\" target=\"_blank\">وی پی جوملا</"
+"a></p>"
+
+#: ../core/admin/options-fields.php:583
+msgid "Sidebars"
+msgstr "سایدبار ها"
+
+#: ../core/admin/options-fields.php:585
+#, php-format
+msgid ""
+"Use this panel to generate additional sidebars. You can manage sidebars "
+"content in the <a href=\"%s\">Apperance -> Widgets</a> settings."
+msgstr ""
+"با استفاده از این پنل به تولید ستون های فرعی اضافی. شما می توانید مطالب ستون "
+"های فرعی در مدیریت <a href=\"%s\">نمایش -> ابزارک</a> تنظیمات."
+
+#: ../core/admin/options-fields.php:598 ../core/admin/metaboxes/page.php:37
+msgid "Cover Area"
+msgstr "منطقه کاور"
+
+#: ../core/admin/options-fields.php:607
+msgid "General"
+msgstr "عمومی"
+
+#: ../core/admin/options-fields.php:608
+msgid ""
+"Manage options for cover area. Please note that each time you change the "
+"values for cover area image sizes, you need to run Force Regenerate "
+"Thumbnails plugin, as described in theme documentation."
+msgstr ""
+"مدیریت گزینه برای پوشش. لطفا توجه داشته باشید که هر زمانی که شما مقادیر را "
+"تغییر دهید برای اندازه تصویر سطح پوشش، شما نیاز به اجرای نیروی بازسازی عکسها "
+"پلاگین، همانطور که در اسناد و مدارک موضوع است."
+
+#: ../core/admin/options-fields.php:616
+msgid "Cover image format"
+msgstr "فرمت تصویر پوشش"
+
+#: ../core/admin/options-fields.php:617
+msgid "Choose how to display cover images"
+msgstr "انتخاب نحوه نمایش تصاویر پوشش"
+
+#: ../core/admin/options-fields.php:619
+msgid "Fixed size (crop both width and height)"
+msgstr "اندازه ثابت (محصول هر دو عرض و ارتفاع)"
+
+#: ../core/admin/options-fields.php:620
+msgid "Keep original ratio (scale to height)"
+msgstr "نسبت اصلی نگه دارید (مقیاس به ارتفاع)"
+
+#: ../core/admin/options-fields.php:629
+msgid "Cover area height"
+msgstr "ارتفاع سطح پوشش"
+
+#: ../core/admin/options-fields.php:630
+msgid "Specify height for your cover image in px"
+msgstr "مشخص ارتفاع برای عکس روی جلد خود را در پیکسل"
+
+#: ../core/admin/options-fields.php:639
+msgid "Cover image width"
+msgstr "عرض تصویر پوشش"
+
+#: ../core/admin/options-fields.php:640
+msgid "Specify width for your cover image in px"
+msgstr "تعیین عرض برای تصویر پوشش خود را در پیکسل"
+
+#: ../core/admin/options-fields.php:660 ../core/admin/options-fields.php:841
+msgid "Manage options for cover Layout 1"
+msgstr "مدیریت گزینه برای پوشش طرح 1"
+
+#: ../core/admin/options-fields.php:667 ../core/admin/options-fields.php:735
+#: ../core/admin/options-fields.php:801 ../core/admin/options-fields.php:848
+#: ../core/admin/options-fields.php:904 ../core/admin/options-fields.php:951
+#: ../core/admin/options-fields.php:993 ../core/admin/options-fields.php:1040
+msgid "Display category"
+msgstr "دسته ها"
+
+#: ../core/admin/options-fields.php:668 ../core/admin/options-fields.php:736
+#: ../core/admin/options-fields.php:802 ../core/admin/options-fields.php:849
+#: ../core/admin/options-fields.php:905 ../core/admin/options-fields.php:952
+#: ../core/admin/options-fields.php:994 ../core/admin/options-fields.php:1041
+#: ../core/admin/options-fields.php:1228
+msgid "Check if you want to display a category link"
+msgstr "اگر شما می خواهید برای نمایش یک لینک دسته"
+
+#: ../core/admin/options-fields.php:675 ../core/admin/options-fields.php:743
+msgid "Display text excerpt"
+msgstr "گزیده ای متن ها"
+
+#: ../core/admin/options-fields.php:676 ../core/admin/options-fields.php:744
+msgid "Check if you want to display a post excerpt"
+msgstr "اگر شما می خواهید برای نشان دادن یک پست گزیده ای"
+
+#: ../core/admin/options-fields.php:684 ../core/admin/options-fields.php:752
+msgid "Excerpt limit"
+msgstr "حد گزیده ای"
+
+#: ../core/admin/options-fields.php:685 ../core/admin/options-fields.php:753
+msgid "Specify max number of characters to limit excerpt"
+msgstr "مشخص حداکثر تعداد کاراکتر برای محدود کردن گزیده ای"
+
+#: ../core/admin/options-fields.php:695 ../core/admin/options-fields.php:763
+#: ../core/admin/options-fields.php:811 ../core/admin/options-fields.php:858
+#: ../core/admin/options-fields.php:914 ../core/admin/options-fields.php:961
+#: ../core/admin/options-fields.php:1003 ../core/admin/options-fields.php:1050
+#: ../core/admin/options-fields.php:1236
+msgid "Meta data"
+msgstr "داده های متا"
+
+#: ../core/admin/options-fields.php:696 ../core/admin/options-fields.php:764
+#: ../core/admin/options-fields.php:812 ../core/admin/options-fields.php:859
+#: ../core/admin/options-fields.php:915 ../core/admin/options-fields.php:962
+#: ../core/admin/options-fields.php:1004 ../core/admin/options-fields.php:1051
+#: ../core/admin/options-fields.php:1237
+msgid "Check and re-order which meta data you want to display"
+msgstr "بررسی کنید و دوباره نظم است که داده های متا می خواهید برای نشان"
+
+#: ../core/admin/options-fields.php:704 ../core/admin/options-fields.php:772
+#: ../core/admin/options-fields.php:820 ../core/admin/options-fields.php:867
+#: ../core/admin/options-fields.php:923 ../core/admin/options-fields.php:970
+#: ../core/admin/options-fields.php:1012 ../core/admin/options-fields.php:1059
+#: ../core/admin/options-fields.php:1245
+msgid "Display format icon"
+msgstr "آیکون فرمت ها"
+
+#: ../core/admin/options-fields.php:705 ../core/admin/options-fields.php:773
+#: ../core/admin/options-fields.php:821 ../core/admin/options-fields.php:868
+#: ../core/admin/options-fields.php:924 ../core/admin/options-fields.php:971
+#: ../core/admin/options-fields.php:1013 ../core/admin/options-fields.php:1060
+#: ../core/admin/options-fields.php:1246
+msgid ""
+"Check if you want to display post format icon for non-standard posts (i.e "
+"video, audio, gallery...)"
+msgstr ""
+"اگر شما می خواهید برای نشان فرمت نماد ارسال برای پست غیر استاندارد (مانند "
+"ویدئو، صدا، گالری ...)"
+
+#: ../core/admin/options-fields.php:728
+msgid "Manage options for cover Layout 2"
+msgstr "مدیریت گزینه برای پوشش چیدمان 2"
+
+#: ../core/admin/options-fields.php:794
+msgid "Manage options for cover Layout 3"
+msgstr "مدیریت گزینه برای پوشش طرح 3"
+
+#: ../core/admin/options-fields.php:879
+msgid "Main Layouts"
+msgstr "طرح بندی اصلی"
+
+#: ../core/admin/options-fields.php:889 ../core/admin/options-fields.php:896
+msgid "Layout A"
+msgstr "طرح یک"
+
+#: ../core/admin/options-fields.php:897
+msgid "Manage options for posts displayed in Layout A"
+msgstr "مدیریت گزینه برای پست نمایش داده شده در طرح یک"
+
+#: ../core/admin/options-fields.php:935 ../core/admin/options-fields.php:943
+msgid "Layout B"
+msgstr "طرح B"
+
+#: ../core/admin/options-fields.php:944
+msgid "Manage options for posts displayed in Layout B"
+msgstr "مدیریت گزینه برای پست نمایش داده شده در طرح B"
+
+#: ../core/admin/options-fields.php:985
+msgid "Layout C"
+msgstr "طرح C"
+
+#: ../core/admin/options-fields.php:1024 ../core/admin/options-fields.php:1032
+msgid "Layout D"
+msgstr "طرح D"
+
+#: ../core/admin/options-fields.php:1033
+msgid "Manage options for posts displayed in Layout D"
+msgstr "مدیریت گزینه برای پست نمایش داده شده در طرح D"
+
+#: ../core/admin/options-fields.php:1072
+msgid "Highlight Posts"
+msgstr "پست ها برجسته"
+
+#: ../core/admin/options-fields.php:1073
+msgid ""
+"You can choose posts by a specific criteria and they will be displayed in "
+"different color/styling in order to stand out among other posts on all post "
+"listing templates."
+msgstr ""
+"شما می توانید پست های معیارهای خاصی را انتخاب کنید و آنها را در رنگ های "
+"مختلف / یک ظاهر طراحی شده به منظور ایستادگی کردن در میان پست های دیگر در "
+"تمام قالب ارسال کنید نمایش داده شود."
+
+#: ../core/admin/options-fields.php:1079
+msgid "Enable highlight posts"
+msgstr "فعال کردن پست برجسته"
+
+#: ../core/admin/options-fields.php:1080
+msgid "Check if you want to enable and use the highlight feature"
+msgstr "اگر شما می خواهید برای فعال کردن و استفاده از ویژگی های برجسته"
+
+#: ../core/admin/options-fields.php:1090 ../core/admin/metaboxes/page.php:432
+#: ../core/admin/metaboxes/page.php:634
+msgid "In category"
+msgstr "در دسته"
+
+#: ../core/admin/options-fields.php:1091
+msgid ""
+"Check if you want to highlight posts that belong to a particular category"
+msgstr "اگر شما می خواهید به برجسته پست که متعلق به یک دسته بندی خاص"
+
+#: ../core/admin/options-fields.php:1092
+msgid ""
+"Note: You can select one or more categories. Leave empty for \"all categories"
+"\""
+msgstr ""
+"توجه: شما می توانید یک یا چند دسته را انتخاب کنید. خالی بگذارید برای "
+"\"مجموعه ها\""
+
+#: ../core/admin/options-fields.php:1101 ../core/admin/metaboxes/page.php:447
+#: ../core/admin/metaboxes/page.php:649 ../core/widgets/posts.php:256
+msgid "Tagged with"
+msgstr "پیوند زده شده با - برچسب زده باشه"
+
+#: ../core/admin/options-fields.php:1102
+msgid ""
+"Check if you want to highlight posts that are tagged with a specific tag(s)"
+msgstr "اگر شما می خواهید به برجسته پست های که با یک برچسب خاص برچسب (ها)"
+
+#: ../core/admin/options-fields.php:1110
+msgid "With more than \"x\" comments"
+msgstr "با بیش از \"X\" نظرات"
+
+#: ../core/admin/options-fields.php:1111
+msgid ""
+"Check if you want to highlight posts which have at least a certain number of "
+"comments"
+msgstr "اگر شما می خواهید به برجسته پست که حداقل یک تعداد معینی از نظر"
+
+#: ../core/admin/options-fields.php:1112
+msgid ""
+"i.e. If you put 50, posts with more than 50 comments will be highlighted "
+msgstr "به عنوان مثال اگر شما 50، پست های با بیش از 50 نظر مشخص خواهد شد"
+
+#: ../core/admin/options-fields.php:1122
+msgid "With more than \"x\" views"
+msgstr "با بیش از \"X\" دیدگاه"
+
+#: ../core/admin/options-fields.php:1123
+msgid ""
+"Check if you want to highlight posts which have at least a certain number of "
+"views"
+msgstr "اگر شما می خواهید به برجسته پست که حداقل یک تعداد معینی از دیدگاه"
+
+#: ../core/admin/options-fields.php:1124
+msgid "i.e. If you put 50, posts with more than 50 views will be highlighted "
+msgstr "به عنوان مثال اگر شما 50، پست های با بیش از 50 نمایش ها مشخص خواهد شد"
+
+#: ../core/admin/options-fields.php:1136
+msgid "Pick manually"
+msgstr "انتخاب دستی"
+
+#: ../core/admin/options-fields.php:1137
+msgid "Choose your highlight posts manually"
+msgstr "انتخاب پست برجسته خود را به صورت دستی"
+
+#: ../core/admin/options-fields.php:1145
+msgid "Choose posts by IDs"
+msgstr "انتخاب پست های شناسه"
+
+#: ../core/admin/options-fields.php:1146
+msgid ""
+"Due to certain limitations, the previous select option lets you pick from "
+"latest 100 posts. Use this option to manually specify posts by their IDs if "
+"they cannot be found in the option above"
+msgstr ""
+"با توجه به محدودیت های خاص، گزینه را انتخاب کنید قبلی شما اجازه می دهد از "
+"شدن 100 پست انتخاب کنید. با استفاده از این گزینه برای مشخص کردن دستی پست های "
+"شناسه خود را اگر آنها می توانند در گزینه بالا یافت نمی شود"
+
+#: ../core/admin/options-fields.php:1147
+msgid ""
+"Note: This option has a priority over the above option. Separate post IDs by "
+"comma, i.e. 43,56,26,187"
+msgstr ""
+"توجه داشته باشید: این گزینه دارای اولویت بیش از گزینه بالا. ارسال شناسه کما "
+"جدا شده، یعنی 43،56،26،187"
+
+#: ../core/admin/options-fields.php:1158
+msgid "Single Post"
+msgstr "پست تنها"
+
+#: ../core/admin/options-fields.php:1167 ../core/admin/metaboxes/page.php:17
+#: ../core/admin/metaboxes/page.php:288 ../core/admin/metaboxes/page.php:564
+#: ../core/admin/metaboxes/post.php:17
+msgid "Layout"
+msgstr "طرح"
+
+#: ../core/admin/options-fields.php:1176
+msgid "Single post default layout"
+msgstr "نمایش پست تنها طرح پیش فرض"
+
+#: ../core/admin/options-fields.php:1177 ../core/admin/options-fields.php:1186
+msgid "Note: You can override this option for each particular post"
+msgstr "توجه: شما می توانید این گزینه برای هر پست خاص نادیده گرفتن"
+
+#: ../core/admin/options-fields.php:1185 ../core/admin/options-fields.php:1426
+#: ../core/admin/metaboxes/page.php:783 ../core/admin/metaboxes/post.php:150
+msgid "Display sidebar"
+msgstr "نمایش نوار کناری"
+
+#: ../core/admin/options-fields.php:1194
+msgid "Post standard sidebar"
+msgstr "ارسال نوار استاندارد"
+
+#: ../core/admin/options-fields.php:1195
+msgid "Choose a single post standard sidebar"
+msgstr "انتخاب یک نوار کناری استاندارد پست تنها"
+
+#: ../core/admin/options-fields.php:1204
+msgid "Post sticky sidebar"
+msgstr "ارسال نوار کناری چسبنده"
+
+#: ../core/admin/options-fields.php:1205
+msgid "Choose a single post sticky sidebar"
+msgstr "انتخاب پست تنها نوار کناری چسبنده"
+
+#: ../core/admin/options-fields.php:1219
+msgid "Display"
+msgstr "نمایش دادن"
+
+#: ../core/admin/options-fields.php:1227
+msgid "Display category link"
+msgstr "لینک دسته ها"
+
+#: ../core/admin/options-fields.php:1254
+msgid "Display share buttons"
+msgstr "دکمه های اشتراک گذاری ها"
+
+#: ../core/admin/options-fields.php:1255
+msgid "Check if you want to display share buttons"
+msgstr "اگر شما می خواهید برای نشان دکمه های اشتراک گذاری"
+
+#: ../core/admin/options-fields.php:1263
+msgid "Social sharing"
+msgstr "به اشتراک گذاری اجتماعی"
+
+#: ../core/admin/options-fields.php:1264
+msgid "Choose social networks that you want to use for sharing posts"
+msgstr ""
+"انتخاب شبکه های اجتماعی که شما می خواهید به استفاده برای پست به اشتراک گذاری"
+
+#: ../core/admin/options-fields.php:1266
+msgid "Facebook"
+msgstr "فیسبوک"
+
+#: ../core/admin/options-fields.php:1267
+msgid "Twitter"
+msgstr "تویتر"
+
+#: ../core/admin/options-fields.php:1268
+msgid "Reddit"
+msgstr "ردیت"
+
+#: ../core/admin/options-fields.php:1269
+msgid "Pinterest"
+msgstr "پینترست"
+
+#: ../core/admin/options-fields.php:1270
+msgid "Email"
+msgstr "ایمیل"
+
+#: ../core/admin/options-fields.php:1271
+msgid "Google+"
+msgstr "گوگل پلاس"
+
+#: ../core/admin/options-fields.php:1272
+msgid "LinkedIN"
+msgstr "لینکدین"
+
+#: ../core/admin/options-fields.php:1273
+msgid "StumbleUpon"
+msgstr "استامبلاپان"
+
+#: ../core/admin/options-fields.php:1292 ../core/admin/options-fields.php:1455
+msgid "Display featured image"
+msgstr "نمایش تصویر برجسته"
+
+#: ../core/admin/options-fields.php:1293
+msgid "Check if you want to display the featured image"
+msgstr "اگر شما می خواهید برای نمایش تصویر برجسته"
+
+#: ../core/admin/options-fields.php:1294
+msgid "Note: this option will only apply post layouts with no cover image"
+msgstr ""
+"توجه داشته باشید: این گزینه فقط طرح بندی پست اعمال خواهد شد با هیچ تصویر جلد"
+
+#: ../core/admin/options-fields.php:1301 ../core/admin/options-fields.php:1463
+msgid "Display featured image caption"
+msgstr "نمایش برجسته عنوان تصویر"
+
+#: ../core/admin/options-fields.php:1302
+msgid "Check if you want to display the featured image captions"
+msgstr "اگر شما می خواهید برای نمایش نوشتن شرح تصاویر و تصویر برجسته"
+
+#: ../core/admin/options-fields.php:1310
+msgid "Display headline (excerpt)"
+msgstr "نمایش تیتر (گزیده)"
+
+#: ../core/admin/options-fields.php:1311
+msgid "Check if you want to display post excerpt at the beginning of the post"
+msgstr "اگر شما می خواهید برای نشان چکیده ای پست در آغاز پست"
+
+#: ../core/admin/options-fields.php:1318
+msgid "Display tags"
+msgstr "برچسب ها نمایش"
+
+#: ../core/admin/options-fields.php:1319
+msgid "Check if you want to display tags"
+msgstr "اگر شما می خواهید برای نشان برچسب ها"
+
+#: ../core/admin/options-fields.php:1327
+msgid "Display author area"
+msgstr "منطقه نویسنده ها"
+
+#: ../core/admin/options-fields.php:1328
+msgid "Check if you want to display the author area."
+msgstr "اگر شما می خواهید برای نشان منطقه نویسنده."
+
+#: ../core/admin/options-fields.php:1335
+msgid "Display prev/next posts"
+msgstr "نمایش قبلی / بعدی پست"
+
+#: ../core/admin/options-fields.php:1336
+msgid "Check if you want to display previous/next post links"
+msgstr "اگر شما می خواهید برای نشان / پست لینک بعدی قبلی"
+
+#: ../core/admin/options-fields.php:1347
+msgid "Related"
+msgstr "مربوط"
+
+#: ../core/admin/options-fields.php:1355
+msgid "Display \"related\" posts"
+msgstr "نمایش \"مرتبط\" پست"
+
+#: ../core/admin/options-fields.php:1356
+msgid "Choose if you want to display related posts"
+msgstr "را انتخاب کنید اگر شما می خواهید برای نمایش پست های مرتبط"
+
+#: ../core/admin/options-fields.php:1364
+msgid "Related area posts number limit"
+msgstr "پست های مرتبط منطقه محدودیت تعداد"
+
+#: ../core/admin/options-fields.php:1373
+msgid "Related area chooses from posts"
+msgstr "منطقه های مرتبط را از پست"
+
+#: ../core/admin/options-fields.php:1375
+msgid "Located in the same category"
+msgstr "واقع در همان شاخه"
+
+#: ../core/admin/options-fields.php:1376
+msgid "Tagged with at least one same tag"
+msgstr "برچسب گذاشته شده توسط حداقل یک برچسب همان"
+
+#: ../core/admin/options-fields.php:1377
+msgid "Located in the same category OR tagged with a same tag"
+msgstr "واقع در همان شاخه و یا برچسب با برچسب همان"
+
+#: ../core/admin/options-fields.php:1378
+msgid "Located in the same category AND tagged with a same tag"
+msgstr "واقع در همان شاخه و برچسب با برچسب همان"
+
+#: ../core/admin/options-fields.php:1379
+msgid "By the same author"
+msgstr "توسط همان نویسنده"
+
+#: ../core/admin/options-fields.php:1380
+msgid "All posts"
+msgstr "همه پست ها"
+
+#: ../core/admin/options-fields.php:1389
+msgid "Related posts are ordered by"
+msgstr "پست های مرتبط با دستور"
+
+#: ../core/admin/options-fields.php:1398
+msgid "Related posts are not older than"
+msgstr "پست های مرتبط مسن تر از نیست"
+
+#: ../core/admin/options-fields.php:1410
+msgid "Page"
+msgstr "صفحه"
+
+#: ../core/admin/options-fields.php:1411
+msgid "Manage default settings for your pages"
+msgstr "مدیریت تنظیمات به طور پیش فرض برای صفحات خود را"
+
+#: ../core/admin/options-fields.php:1417
+msgid "Page default layout"
+msgstr "صفحه طرح پیش فرض"
+
+#: ../core/admin/options-fields.php:1418 ../core/admin/options-fields.php:1427
+msgid "Note: You can override this option for each particular page"
+msgstr "توجه: شما می توانید این گزینه برای هر صفحه خاص نادیده گرفتن"
+
+#: ../core/admin/options-fields.php:1435
+msgid "Page standard sidebar"
+msgstr "صفحه نوار استاندارد"
+
+#: ../core/admin/options-fields.php:1436
+msgid "Choose a page standard sidebar"
+msgstr "انتخاب یک نوار کناری استاندارد صفحه"
+
+#: ../core/admin/options-fields.php:1445
+msgid "Page sticky sidebar"
+msgstr "صفحه نوار کناری چسبنده"
+
+#: ../core/admin/options-fields.php:1446
+msgid "Choose a page sticky sidebar"
+msgstr "انتخاب صفحه نوار کناری چسبنده"
+
+#: ../core/admin/options-fields.php:1456
+msgid "Check if you want to display featured image"
+msgstr "اگر شما می خواهید برای نشان تصویر برجسته"
+
+#: ../core/admin/options-fields.php:1464
+msgid "Check if you want to display featured image caption"
+msgstr "اگر شما می خواهید برای نشان عنوان تصویر برجسته"
+
+#: ../core/admin/options-fields.php:1475
+msgid "Category Template"
+msgstr "رده الگو"
+
+#: ../core/admin/options-fields.php:1476
+msgid "Manage settings for category template."
+msgstr "مدیریت تنظیمات برای دسته الگو."
+
+#: ../core/admin/options-fields.php:1483
+msgid "Cover area layout"
+msgstr "طرح پوشش"
+
+#: ../core/admin/options-fields.php:1484
+msgid "Choose cover area layout"
+msgstr "انتخاب پوشش طرح منطقه"
+
+#: ../core/admin/options-fields.php:1494
+msgid "Number of cover area posts"
+msgstr "تعداد پست سطح پوشش"
+
+#: ../core/admin/options-fields.php:1495
+msgid "Specify max number of posts to display in cover area"
+msgstr "مشخص حداکثر تعداد پست برای نمایش در سطح پوشش"
+
+#: ../core/admin/options-fields.php:1503
+msgid "Cover area displays"
+msgstr "نمایش سطح پوشش"
+
+#: ../core/admin/options-fields.php:1505
+msgid "Latest posts"
+msgstr "آخرین ارسال"
+
+#: ../core/admin/options-fields.php:1506
+msgid "Most commented posts"
+msgstr "اکثر پست نظر"
+
+#: ../core/admin/options-fields.php:1507
+msgid "Most viewed posts"
+msgstr "ارسال به"
+
+#: ../core/admin/options-fields.php:1516
+msgid "Make cover posts unique"
+msgstr "ایجاد پست های پوشش منحصر به فرد"
+
+#: ../core/admin/options-fields.php:1517
+msgid "Check if you want to exclude cover posts from main post listing below "
+msgstr "اگر شما می خواهید به حذف پست پوشش از اصلی ارسال کنید زیر"
+
+#: ../core/admin/options-fields.php:1526 ../core/admin/options-fields.php:1603
+#: ../core/admin/options-fields.php:1655 ../core/admin/options-fields.php:1706
+#: ../core/admin/options-fields.php:1757
+msgid "Main layout"
+msgstr "طرح اصلی"
+
+#: ../core/admin/options-fields.php:1527 ../core/admin/options-fields.php:1604
+#: ../core/admin/options-fields.php:1656 ../core/admin/options-fields.php:1707
+#: ../core/admin/options-fields.php:1758
+msgid "Choose your main post layout"
+msgstr "انتخاب ارسال طرح اصلی خود را"
+
+#: ../core/admin/options-fields.php:1528 ../core/admin/options-fields.php:1561
+msgid "Note: You can override this option for each category separately"
+msgstr ""
+"توجه: شما می توانید این گزینه برای هر دسته بندی را به طور جداگانه نادیده "
+"گرفتن"
+
+#: ../core/admin/options-fields.php:1536 ../core/admin/options-fields.php:1612
+#: ../core/admin/options-fields.php:1664 ../core/admin/options-fields.php:1715
+#: ../core/admin/options-fields.php:1767
+msgid "Posts per page"
+msgstr "پست ها در هر صفحه"
+
+#: ../core/admin/options-fields.php:1537 ../core/admin/options-fields.php:1613
+#: ../core/admin/options-fields.php:1665 ../core/admin/options-fields.php:1716
+#: ../core/admin/options-fields.php:1768
+msgid "Choose how many posts per page you want to display"
+msgstr "انتخاب کنید که چگونه بسیاری از پست ها در هر صفحه که می خواهید نمایش"
+
+#: ../core/admin/options-fields.php:1539 ../core/admin/options-fields.php:1615
+#: ../core/admin/options-fields.php:1667 ../core/admin/options-fields.php:1718
+#: ../core/admin/options-fields.php:1770
+#, php-format
+msgid "Inherit from global option in <a href=\"%s\">Settings->Reading</a>"
+msgstr "به ارث می برند از گزینه جهانی در <a href=\"%s\">تنظیمات> خواندن</a>"
+
+#: ../core/admin/options-fields.php:1540 ../core/admin/options-fields.php:1616
+#: ../core/admin/options-fields.php:1668 ../core/admin/options-fields.php:1719
+#: ../core/admin/options-fields.php:1771
+msgid "Custom number"
+msgstr "تعداد سفارشی"
+
+#: ../core/admin/options-fields.php:1549 ../core/admin/options-fields.php:1625
+#: ../core/admin/options-fields.php:1677 ../core/admin/options-fields.php:1728
+#: ../core/admin/options-fields.php:1780
+msgid "Number of posts per page"
+msgstr "تعداد پست ها در هر صفحه"
+
+#: ../core/admin/options-fields.php:1559 ../core/admin/options-fields.php:1635
+#: ../core/admin/options-fields.php:1686 ../core/admin/options-fields.php:1737
+#: ../core/admin/options-fields.php:1789 ../core/admin/metaboxes/page.php:57
+msgid "Pagination"
+msgstr "صفحه گذاری"
+
+#: ../core/admin/options-fields.php:1560
+msgid "Choose a pagination type for category template"
+msgstr "انتخاب نوع صفحه بندی برای رده الگو"
+
+#: ../core/admin/options-fields.php:1569 ../core/admin/options-fields.php:1578
+msgid "Combo layout"
+msgstr "طرح کمبو"
+
+#: ../core/admin/options-fields.php:1570
+msgid ""
+"If you check this option, you can choose an additonal layout to append it on "
+"top of main post layout"
+msgstr ""
+"اگر این گزینه را تیک بزنید، شما می توانید یک طرح اضافی را انتخاب کنید به آن "
+"اضافه در بالای ارسال طرح اصلی"
+
+#: ../core/admin/options-fields.php:1579
+msgid "Choose combo layout"
+msgstr "انتخاب طرح کمبو"
+
+#: ../core/admin/options-fields.php:1580
+msgid "Note: Combo layout will be displayed on the first page only"
+msgstr "توجه: طرح دسته کوچک موسیقی جاز خواهد شد در صفحه اول نمایش داده تنها"
+
+#: ../core/admin/options-fields.php:1595
+msgid "Tag Template"
+msgstr "الگو برچسب"
+
+#: ../core/admin/options-fields.php:1596
+msgid "Manage settings for tag template"
+msgstr "مدیریت تنظیمات برای قالب تگ"
+
+#: ../core/admin/options-fields.php:1636
+msgid "Choose a pagination type for tag template"
+msgstr "انتخاب نوع صفحه بندی برای قالب تگ"
+
+#: ../core/admin/options-fields.php:1647
+msgid "Author Template"
+msgstr "قالب نویسنده"
+
+#: ../core/admin/options-fields.php:1648
+msgid "Manage settings for author template"
+msgstr "مدیریت تنظیمات برای نویسنده قالب"
+
+#: ../core/admin/options-fields.php:1687
+msgid "Choose a pagination type for author template"
+msgstr "انتخاب نوع صفحه بندی برای نویسنده قالب"
+
+#: ../core/admin/options-fields.php:1698
+msgid "Search Template"
+msgstr "جستجو الگو"
+
+#: ../core/admin/options-fields.php:1699
+msgid "Manage settings for search results template"
+msgstr "مدیریت تنظیمات برای نتایج جستجو الگو"
+
+#: ../core/admin/options-fields.php:1738
+msgid "Choose a pagination type for search template"
+msgstr "انتخاب نوع صفحه بندی برای قالب جستجو"
+
+#: ../core/admin/options-fields.php:1750
+msgid "Archive Templates"
+msgstr "آرشیو قالب"
+
+#: ../core/admin/options-fields.php:1751
+msgid ""
+"Manage settings for miscellaneous templates, i.e. date archives, post format "
+"archives, index (latest posts), etc..."
+msgstr ""
+"مدیریت تنظیمات برای قالب متفرقه، به عنوان مثال تاریخ آرشیو، فرمت پست آرشیو، "
+"شاخص (آخرین ارسال ها)، و غیره ..."
+
+#: ../core/admin/options-fields.php:1790
+msgid "Choose a pagination type for archive templates"
+msgstr "انتخاب نوع صفحه بندی برای قالب آرشیو"
+
+#: ../core/admin/options-fields.php:1801
+msgid "Typography"
+msgstr "تایپوگرافی"
+
+#: ../core/admin/options-fields.php:1802
+msgid "Manage fonts and typography settings"
+msgstr "مدیریت فونت ها و تنظیمات تایپوگرافی"
+
+#: ../core/admin/options-fields.php:1808
+msgid "Main text font"
+msgstr "فونت متن اصلی"
+
+#: ../core/admin/options-fields.php:1816
+msgid "This is your main font, used for standard text"
+msgstr "این فونت اصلی خود را، مورد استفاده برای متن استاندارد است"
+
+#: ../core/admin/options-fields.php:1834
+msgid "Headings font"
+msgstr "سرعنوان فونت"
+
+#: ../core/admin/options-fields.php:1842
+msgid "This is a font used for titles and headings"
+msgstr "این فونت مورد استفاده برای عنوان و سرفصل است"
+
+#: ../core/admin/options-fields.php:1861
+msgid "Navigation font"
+msgstr "فونت ناوبری"
+
+#: ../core/admin/options-fields.php:1869
+msgid "This is a font used for main website navigation"
+msgstr "این فونت مورد استفاده برای ناوبری اصلی وب سایت است"
+
+#: ../core/admin/options-fields.php:1888
+msgid "Uppercase text"
+msgstr "متن بزرگ"
+
+#: ../core/admin/options-fields.php:1889
+msgid "Check if you want to show CAPITAL LETTERS for specific elements"
+msgstr "اگر شما می خواهید برای نشان حروف بزرگ برای عناصر خاص"
+
+#: ../core/admin/options-fields.php:1891
+msgid "Site title"
+msgstr "عنوان سایت"
+
+#: ../core/admin/options-fields.php:1892
+msgid "Site description"
+msgstr "توضیحات سایت"
+
+#: ../core/admin/options-fields.php:1893
+msgid "Main header elements"
+msgstr "عناصر هدر اصلی"
+
+#: ../core/admin/options-fields.php:1894
+msgid "Top header elements"
+msgstr "عناصر هدر بالا"
+
+#: ../core/admin/options-fields.php:1895
+msgid "Post/Page titles"
+msgstr "عنوان پست / صفحه"
+
+#: ../core/admin/options-fields.php:1896
+msgid "Category links"
+msgstr "لینک دسته ها"
+
+#: ../core/admin/options-fields.php:1897
+msgid "Module/Archive titles"
+msgstr "ماژول / عنوان بایگانی"
+
+#: ../core/admin/options-fields.php:1898
+msgid "Widget titles"
+msgstr "عنوان ویجت"
+
+#: ../core/admin/options-fields.php:1920
+msgid "Ads"
+msgstr "آگهی"
+
+#: ../core/admin/options-fields.php:1921
+msgid ""
+"Use this options to fill your ads slots. Both image and JavaScript related "
+"ads are allowed."
+msgstr ""
+"با استفاده از این گزینه برای پر کردن اسلات تبلیغات خود را. هر دو تصویر و "
+"تبلیغات مرتبط با جاوا اسکریپت مجاز است."
+
+#: ../core/admin/options-fields.php:1927
+msgid "Header ad slot"
+msgstr "اسلات آگهی سربرگ"
+
+#: ../core/admin/options-fields.php:1928
+msgid ""
+"This ad will be displayed in website header. You can enable it in header "
+"main area settings"
+msgstr ""
+"این آگهی خواهد شد در هدر وب سایت نمایش داده شود. شما می توانید آن را در هدر "
+"اصلی تنظیمات منطقه فعال"
+
+#: ../core/admin/options-fields.php:1930
+msgid ""
+"Note: If you want to paste HTML or js code, use \"text\" mode in editor. "
+"Suggested size of an ad banner is 728x90"
+msgstr ""
+"توجه: اگر شما می خواهید برای چسباندن HTML و کد JS، استفاده از \"متن\" حالت "
+"در ویرایشگر. اندازه پیشنهادی از یک بنر امتیازات 728x90 است"
+
+#: ../core/admin/options-fields.php:1941
+msgid "Below header"
+msgstr "زیر هدر"
+
+#: ../core/admin/options-fields.php:1942
+msgid "This ad will be displayed between your header and website content"
+msgstr "این آگهی خواهد شد بین هدر و وب سایت مطالب خود را نمایش داده"
+
+#: ../core/admin/options-fields.php:1944 ../core/admin/options-fields.php:1957
+#: ../core/admin/options-fields.php:1970 ../core/admin/options-fields.php:1983
+#: ../core/admin/options-fields.php:1996
+msgid ""
+"Note: If you want to paste HTML or JavaScript code, use \"text\" mode in "
+"editor"
+msgstr ""
+"توجه: اگر شما می خواهید برای چسباندن HTML یا کد جاوا اسکریپت، استفاده از "
+"\"متن\" حالت در ویرایشگر"
+
+#: ../core/admin/options-fields.php:1954
+msgid "Above footer"
+msgstr "بالا فوتر"
+
+#: ../core/admin/options-fields.php:1955
+msgid "This ad will be displayed between your footer and website content"
+msgstr "این آگهی خواهد شد بین فوتر و وب سایت مطالب خود را نمایش داده"
+
+#: ../core/admin/options-fields.php:1967
+msgid "Above single post content"
+msgstr "بالا ارسال مطالب تنها"
+
+#: ../core/admin/options-fields.php:1968
+msgid ""
+"This ad will be displayed above post content on your single post templates"
+msgstr "این آگهی خواهد شد بالا محتوای پست در قالب ارسال تک شما نمایش داده"
+
+#: ../core/admin/options-fields.php:1980
+msgid "Below single post content"
+msgstr "زیر ارسال مطالب تنها"
+
+#: ../core/admin/options-fields.php:1981
+msgid ""
+"This ad will be displayed below post content on your single post templates"
+msgstr "این آگهی خواهد شد در زیر محتوای پست در قالب ارسال تک شما نمایش داده"
+
+#: ../core/admin/options-fields.php:1993
+msgid "Between posts"
+msgstr "بین پست"
+
+#: ../core/admin/options-fields.php:1994
+msgid ""
+"This ad will be displayed between posts on archive templates such as "
+"category archives, tag archives etc..."
+msgstr ""
+"این آگهی خواهد شد بین پست ها در قالب آرشیو مانند دسته آرشیو، برچسب و غیره "
+"نمایش داده ..."
+
+#: ../core/admin/options-fields.php:2007
+msgid "Between posts position"
+msgstr "بین موقعیت پست"
+
+#: ../core/admin/options-fields.php:2008
+msgid "Specify after how many posts you want to display ad"
+msgstr "مشخص پس چگونه بسیاری از پست شما می خواهید برای نمایش آگهی"
+
+#: ../core/admin/options-fields.php:2020
+msgid "Misc."
+msgstr "متفرقه."
+
+#: ../core/admin/options-fields.php:2021
+msgid "These are some additional miscellaneous theme settings"
+msgstr "اینها برخی تنظیمات تم دیگر اضافی"
+
+#: ../core/admin/options-fields.php:2027
+msgid "RTL mode (right to left)"
+msgstr "حالت RTL (راست به چپ)"
+
+#: ../core/admin/options-fields.php:2028
+msgid "Enable this option if you are using right to left writing/reading"
+msgstr "این گزینه را فعال اگر شما با استفاده از راست به چپ نوشتن / خواندن"
+
+#: ../core/admin/options-fields.php:2035
+msgid "Skip RTL for specific language(s)"
+msgstr "پرش RTL برای زبان خاص (بازدید کنندگان)"
+
+#: ../core/admin/options-fields.php:2036
+msgid ""
+"Paste specific WordPress language <a href=\"http://wpcentral.io/"
+"internationalization/\" target=\"_blank\">locale code</a> to exclude it from "
+"the RTL mode"
+msgstr ""
+"چسباندن زبان وردپرس خاص <a href=\"http://wpcentral.io/internationalization/"
+"\" target=\"_blank\">locale code</a> به محروم کردن آن از حالت RTL"
+
+#: ../core/admin/options-fields.php:2037
+msgid ""
+"i.e. If you are using Arabic and English versions on the same WordPress "
+"installation you should put \"en_US\" in this field and its version will not "
+"be displayed as RTL. Note: To exclude multiple languages, separate by comma: "
+"en_US, de_DE"
+msgstr ""
+"به عنوان مثال اگر شما با استفاده نسخه های عربی و انگلیسی بر روی راه اندازی "
+"وردپرس همان شما باید \"En_US نوع\" در این زمینه قرار داده و نسخه آن به عنوان "
+"RTL نمایش داده نمی شود. توجه: برای حذف زبان های متعدد، جدا شده توسط کاما: "
+"En_US نوع، de_DE"
+
+#: ../core/admin/options-fields.php:2047
+msgid "More string"
+msgstr "بیشتر رشته"
+
+#: ../core/admin/options-fields.php:2048
+msgid "Specify your \"more\" string to append after limited post excerpts"
+msgstr "مشخص \"بیشتر\" رشته خود را پس از ارسال گزیده ای محدود به اضافه"
+
+#: ../core/admin/options-fields.php:2057
+msgid "Post views forgery"
+msgstr "ارسال دیدگاه جعل"
+
+#: ../core/admin/options-fields.php:2058
+msgid "Specify a value to add to the real number of entry views for each post"
+msgstr ""
+"مشخص کردن یک ارزش برای اضافه کردن به تعداد واقعی نمایش ورود برای هر پست"
+
+#: ../core/admin/options-fields.php:2059
+msgid ""
+"i.e. If a post has 45 views and you put 100, your post will display 145 views"
+msgstr ""
+"به عنوان مثال اگر یک پست 45 دیدگاه و شما را 100، پیام شما را در 145 دیدگاه "
+"نمایش"
+
+#: ../core/admin/options-fields.php:2081
+msgid "Enable theme translation?"
+msgstr "فعال کردن ترجمه تم؟"
+
+#: ../core/admin/options-fields.php:2099
+msgid "Translation"
+msgstr "ترجمه"
+
+#: ../core/admin/options-fields.php:2100
+msgid ""
+"Use these settings to quckly translate or change the text in this theme. If "
+"you want to remove the text completely instead of modifying it, you can use "
+"<strong>\"-1\"</strong> as a value for particular field translation. <br/"
+"><br/><strong>Note:</strong> If you are using this theme for a multilingual "
+"website, you need to disable these options and use multilanguage plugins "
+"(such as WPML) and manual translation with .po and .mo files located inside "
+"the \"languages\" folder."
+msgstr ""
+"استفاده از این تنظیمات را به سرعت ترجمه و یا تغییر متن در این موضوع است. اگر "
+"شما می خواهید به حذف متن به طور کامل به جای اصلاح آن، شما می توانید استفاده "
+"کنید <strong>\"-1\"</strong> به عنوان یک ارزش برای ترجمه زمینه خاص است.<br/"
+"><br/><strong>نکته:</strong> اگر شما با استفاده از این تم برای وب سایت چند "
+"زبانه، شما نیاز به این گزینه غیر فعال کردن و استفاده از پلاگین چند زبانه "
+"(مانند WPML) و کتابچه راهنمای ترجمه با صندوق و فایل های مو واقع در داخل "
+"\"زبان\" پوشه."
+
+#: ../core/admin/options-fields.php:2107
+msgid "Performance"
+msgstr "عملکرد"
+
+#: ../core/admin/options-fields.php:2108
+msgid ""
+"Use these options to put your theme to a high speed as well as save your "
+"server resources!"
+msgstr ""
+"استفاده از این گزینه برای قرار دادن تم خود را به سرعت بالا و همچنین صرفه "
+"جویی در منابع سرور شما!"
+
+#: ../core/admin/options-fields.php:2114
+msgid "Use minified CSS"
+msgstr "استفاده از CSS minified شده"
+
+#: ../core/admin/options-fields.php:2115
+msgid "Load all theme css files combined and minified into a single file."
+msgstr "بارگذاری تمام فایل های تم CSS ترکیب و minified را در یک فایل."
+
+#: ../core/admin/options-fields.php:2122
+msgid "Use minified JS"
+msgstr "استفاده از های Minified JS"
+
+#: ../core/admin/options-fields.php:2123
+msgid "Load all theme js files combined and minified into a single file."
+msgstr "بارگذاری فایل های تمام تم JS ترکیب و minified را در یک فایل."
+
+#: ../core/admin/options-fields.php:2131
+msgid "Disable additional image sizes"
+msgstr "غیر فعال کردن اندازه تصویر اضافی"
+
+#: ../core/admin/options-fields.php:2132
+msgid ""
+"By default, theme generates additional image size for each of the layouts it "
+"offers. You can use this option to avoid creating additional sizes if you "
+"are not using particular layout in order to save your server space."
+msgstr ""
+"به طور پیش فرض، موضوع تولید اندازه تصویر اضافی برای هر یک از طرح بندی آن "
+"ارائه می دهد. شما می توانید از این گزینه برای جلوگیری از ایجاد اندازه های "
+"اضافی اگر شما با استفاده از طرح خاص به منظور صرفه جویی در فضا سرور خود را "
+"استفاده کنید."
+
+#: ../core/admin/options-fields.php:2134
+msgid "Cover image"
+msgstr "تصویر روی جلد"
+
+#: ../core/admin/options-fields.php:2135
+msgid "Single post image (also used for pages)"
+msgstr "نمایش پست تنها تصویر (همچنین برای صفحات استفاده می شود)"
+
+#: ../core/admin/options-fields.php:2136
+msgid "Layout A image"
+msgstr "تصویر طرح A"
+
+#: ../core/admin/options-fields.php:2137
+msgid "Layout B image"
+msgstr "تصویر طرح B"
+
+#: ../core/admin/options-fields.php:2138
+msgid "Layout D image (also used for cover 3 and 4)"
+msgstr "تصویر طرح D (همچنین برای پوشش 3 و 4 استفاده می شود)"
+
+#: ../core/admin/options-fields.php:2153
+msgid "Additional Code"
+msgstr "کد های اضافی"
+
+#: ../core/admin/options-fields.php:2154
+msgid ""
+"Modify the default styling of the theme by adding custom CSS or JavaScript "
+"code. Note: These options are for advanced users only, so use it with "
+"caution."
+msgstr ""
+"تغییر یک ظاهر طراحی شده به طور پیش فرض از موضوع با اضافه کردن CSS سفارشی و "
+"یا کد جاوا اسکریپت. توجه: این گزینه فقط برای کاربران پیشرفته، بنابراین "
+"استفاده از آن با احتیاط."
+
+#: ../core/admin/options-fields.php:2161
+msgid "Additional CSS"
+msgstr "CSS اضافی"
+
+#: ../core/admin/options-fields.php:2162
+msgid "Use this field to add CSS code and modify the default theme styling"
+msgstr ""
+"استفاده از این زمینه برای اضافه کردن کد CSS و تغییر یک ظاهر طراحی شده تم پیش "
+"فرض"
+
+#: ../core/admin/options-fields.php:2171
+msgid "Additional JavaScript"
+msgstr "اضافی جاوا اسکریپت"
+
+#: ../core/admin/options-fields.php:2172
+msgid "Use this field to add JavaScript code"
+msgstr "استفاده از این زمینه برای اضافه کردن کد جاوا اسکریپت"
+
+#: ../core/admin/options-fields.php:2173
+msgid ""
+"Note: Please use clean execution JavaScript code without \"script\" tags"
+msgstr "توجه: لطفا اعدام پاک کردن کد جاوا اسکریپت استفاده بدون تگ \"اسکریپت\""
+
+#: ../core/admin/options-fields.php:2188
+msgid "Updater"
+msgstr "به روز"
+
+#: ../core/admin/options-fields.php:2189
+#, php-format
+msgid ""
+"Specify your ThemeForest username and API Key to enable theme update "
+"notification. When there is a new version of the theme, it will appear on "
+"your <a href=\"%s\">updates screen</a>."
+msgstr ""
+"مشخص خود را های WorldWideThemes.net نام کاربری و API های کلیدی به فعال کردن "
+"اطلاع رسانی به روز رسانی تم. هنگامی که یک نسخه جدید از تم وجود دارد، آن را "
+"در ظاهر خواهد شد خود را <a href=\"%s\">صفحه به روز رسانی</a>."
+
+#: ../core/admin/options-fields.php:2195
+msgid "Your ThemeForest Username"
+msgstr "تم فارست نام کاربری شما"
+
+#: ../core/admin/options-fields.php:2202
+msgid "Your ThemeForest API Key"
+msgstr "تم فارست کلید API شما"
+
+#: ../core/admin/options-fields.php:2203
+#, php-format
+msgid "Where can I find my %s?"
+msgstr "کجا می توانم پیدا کنم %s?"
+
+#: ../core/admin/options.php:23
+#, php-format
+msgid "Gridlove Options%sTheme Documentation%s"
+msgstr "تنظیمات گرید لاو%sمستندات تم%s"
+
+#: ../core/admin/options.php:27
+msgid "Theme Options"
+msgstr "پنل تنظیمات"
+
+#: ../core/admin/options.php:28
+msgid "Gridlove Options"
+msgstr "تنظیمات گریدلاو"
+
+#: ../core/admin/plugins.php:102
+msgid "Install Recommended Plugins"
+msgstr "توصیه نصب پلاگین"
+
+#: ../core/admin/plugins.php:103
+msgid "Gridlove Plugins"
+msgstr "پلاگین های گرید لاو"
+
+#: ../core/admin/plugins.php:104
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "در حال نصب پلاگین %s"
+
+#: ../core/admin/plugins.php:105
+msgid "Something went wrong with the plugin API."
+msgstr "چیزی اشتباه است با API پلاگین رفت."
+
+#: ../core/admin/plugins.php:116
+msgid "Return to Required Plugins Installer"
+msgstr "بازگشت برای نصب پلاگین مورد نیاز"
+
+#: ../core/admin/plugins.php:117
+msgid "Plugin activated successfully."
+msgstr "پلاگین با موفقیت فعال شد."
+
+#: ../core/admin/plugins.php:118
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "همه پلاگین ها نصب شده و با موفقیت فعال شد. %s"
+
+#: ../core/admin/metaboxes/category.php:59
+#: ../core/admin/metaboxes/category.php:102
+msgid "Color"
+msgstr "رنگ"
+
+#: ../core/admin/metaboxes/category.php:60
+#: ../core/admin/metaboxes/category.php:104
+msgid "Inherit from accent color"
+msgstr "به ارث می برند از رنگ لهجه"
+
+#: ../core/admin/metaboxes/category.php:61
+#: ../core/admin/metaboxes/category.php:105
+msgid "Set custom color"
+msgstr "تنظیم رنگ سفارشی"
+
+#: ../core/admin/metaboxes/category.php:69
+#: ../core/admin/metaboxes/category.php:113
+msgid "Recently used"
+msgstr "اخیرا مورد استفاده قرار گرفته"
+
+#: ../core/admin/metaboxes/page.php:27 ../core/admin/metaboxes/post.php:27
+msgid "Sidebar"
+msgstr "سایدبار"
+
+#: ../core/admin/metaboxes/page.php:47
+msgid "Modules"
+msgstr "ماژول"
+
+#: ../core/admin/metaboxes/page.php:174
+msgid ""
+"You don't have any modules on this page yet. Click the button below to "
+"create your first module."
+msgstr ""
+"شما به هیچ ماژول در این صفحه نشده است. روی دکمه زیر کلیک کنید برای ایجاد "
+"اولین ماژول خود را."
+
+#: ../core/admin/metaboxes/page.php:187
+msgid "Module"
+msgstr "واحد"
+
+#: ../core/admin/metaboxes/page.php:234
+msgid "Edit"
+msgstr "ویرایش"
+
+#: ../core/admin/metaboxes/page.php:235
+msgid "Remove"
+msgstr "حذف"
+
+#: ../core/admin/metaboxes/page.php:267
+msgid "Appearance"
+msgstr "نمایش"
+
+#: ../core/admin/metaboxes/page.php:268
+msgid "Selection"
+msgstr "انتخاب"
+
+#: ../core/admin/metaboxes/page.php:275 ../core/admin/metaboxes/page.php:511
+#: ../core/widgets/adsense.php:65 ../core/widgets/categories.php:79
+#: ../core/widgets/posts.php:211
+msgid "Title"
+msgstr "عنوان"
+
+#: ../core/admin/metaboxes/page.php:280 ../core/admin/metaboxes/page.php:516
+msgid "Do not display publicly"
+msgstr "عدم نمایش عمومی"
+
+#: ../core/admin/metaboxes/page.php:281 ../core/admin/metaboxes/page.php:517
+msgid "Enter your module title"
+msgstr "عنوان ماژول خود را وارد کنید"
+
+#: ../core/admin/metaboxes/page.php:358 ../core/admin/metaboxes/page.php:583
+msgid "Number of posts"
+msgstr "تعداد پست"
+
+#: ../core/admin/metaboxes/page.php:386
+msgid "Actions:"
+msgstr "اعمال:"
+
+#: ../core/admin/metaboxes/page.php:389
+msgid "Display \"view all\" button"
+msgstr "نمایش \"نمایش تمام\" را فشار دهید"
+
+#: ../core/admin/metaboxes/page.php:393
+msgid "URL"
+msgstr "URL"
+
+#: ../core/admin/metaboxes/page.php:394
+msgid "Specify text and URL for \"view all\" button"
+msgstr "مشخص متن و URL برای \"دیدن همه\" را فشار دهید"
+
+#: ../core/admin/metaboxes/page.php:407 ../core/admin/metaboxes/page.php:593
+msgid "Order by"
+msgstr "سفارش توسط"
+
+#: ../core/admin/metaboxes/page.php:413 ../core/admin/metaboxes/page.php:599
+#: ../core/widgets/posts.php:239
+msgid "Or choose manually"
+msgstr "انتخاب کنید و یا به صورت دستی"
+
+#: ../core/admin/metaboxes/page.php:416 ../core/admin/metaboxes/page.php:602
+msgid ""
+"Specify post ids separated by comma if you want to select only those posts. "
+"i.e. 213,32,12,45"
+msgstr ""
+"مشخص شناسه پست جدا شده توسط کاما اگر شما می خواهید را انتخاب کنید فقط کسانی "
+"که پست. به عنوان مثال 213،32،12،45"
+
+#: ../core/admin/metaboxes/page.php:422 ../core/admin/metaboxes/page.php:608
+msgid "Sort"
+msgstr "مرتب سازی"
+
+#: ../core/admin/metaboxes/page.php:425 ../core/admin/metaboxes/page.php:611
+msgid "Descending"
+msgstr "نزولی"
+
+#: ../core/admin/metaboxes/page.php:426 ../core/admin/metaboxes/page.php:612
+msgid "Ascending"
+msgstr "صعودی"
+
+#: ../core/admin/metaboxes/page.php:441 ../core/admin/metaboxes/page.php:643
+msgid "Check whether you want to display posts from specific categories only"
+msgstr "بررسی کنید که آیا شما می خواهید برای نمایش پست تنها دسته های خاص"
+
+#: ../core/admin/metaboxes/page.php:451 ../core/admin/metaboxes/page.php:653
+#: ../core/widgets/posts.php:258
+msgid ""
+"Specify one or more tags separated by comma. i.e. life, cooking, funny "
+"moments"
+msgstr ""
+"مشخص یک یا چند برچسب جدا شده توسط کاما. به عنوان مثال زندگی، پخت و پز، لحظه "
+"های خنده دار"
+
+#: ../core/admin/metaboxes/page.php:457 ../core/admin/metaboxes/page.php:659
+msgid "Format"
+msgstr "قالب"
+
+#: ../core/admin/metaboxes/page.php:463 ../core/admin/metaboxes/page.php:665
+msgid "Display posts that have a specific format"
+msgstr "پست ها که یک فرمت خاص"
+
+#: ../core/admin/metaboxes/page.php:469 ../core/admin/metaboxes/page.php:671
+msgid "Not older than"
+msgstr "نه بزرگتر از"
+
+#: ../core/admin/metaboxes/page.php:475 ../core/admin/metaboxes/page.php:677
+msgid "Display posts that are not older than specific time range"
+msgstr "پست ها که مسن تر از محدوده زمانی خاص نیست"
+
+#: ../core/admin/metaboxes/page.php:481 ../core/admin/metaboxes/page.php:618
+msgid "Unique posts (do not duplicate)"
+msgstr "پست منحصر به فرد (آیا تکراری نیست)"
+
+#: ../core/admin/metaboxes/page.php:485
+msgid ""
+"If you check this option, posts in this module will be excluded from other "
+"modules below."
+msgstr ""
+"اگر این گزینه را تیک بزنید، پست در این ماژول را از دیگر ماژول های زیر حذف "
+"شدند."
+
+#: ../core/admin/metaboxes/page.php:527
+msgid "Paste any text, HTML, script or shortcodes here"
+msgstr "چسباندن هر گونه متن، HTML، اسکریپت یا کد کوتاه در اینجا"
+
+#: ../core/admin/metaboxes/page.php:531
+msgid "Automatically add paragraphs"
+msgstr "اضافه کردن خودکار پاراگراف"
+
+#: ../core/admin/metaboxes/page.php:577
+msgid "Choose your cover area layout"
+msgstr "انتخاب طرح پوشش خود"
+
+#: ../core/admin/metaboxes/page.php:587
+msgid "Max number of posts to display"
+msgstr "حداکثر تعداد پست برای نمایش"
+
+#: ../core/admin/metaboxes/page.php:622
+msgid "If you check this option, selected posts will be excluded from modules."
+msgstr ""
+"اگر این گزینه را تیک بزنید، پست انتخاب خواهد شد از ماژول های حذف شده است."
+
+#: ../core/admin/metaboxes/page.php:716
+msgid "Note: Pagination will be applied to the last post module on the page"
+msgstr "توجه: صفحه بندی خواهد شد به آخرین پست ماژول در صفحه اعمال"
+
+#: ../core/admin/metaboxes/page.php:750 ../core/admin/metaboxes/post.php:114
+msgid "Choose a layout"
+msgstr "انتخاب یک طرح"
+
+#: ../core/admin/metaboxes/page.php:792 ../core/admin/metaboxes/post.php:159
+msgid "Choose standard sidebar to display"
+msgstr "نوار استاندارد انتخاب کنید برای نمایش"
+
+#: ../core/admin/metaboxes/page.php:799 ../core/admin/metaboxes/post.php:166
+msgid "Choose sticky sidebar to display"
+msgstr "نوار کناری چسبنده را انتخاب کنید برای نمایش"
+
+#: ../core/admin/options-custom-fields/sidgen/field_sidgen.php:45
+msgid "Add Sidebar"
+msgstr "اضافه کردن ستون کناری"
+
+#: ../core/widgets/adsense.php:13
+msgid "Place Google AdSense or any JavaScript related code inside this widget"
+msgstr "محل حستبلیغ گوگل و یا هر کد مربوط جاوا اسکریپت در داخل این ویجت"
+
+#: ../core/widgets/adsense.php:15
+msgid "Gridlove Adsense"
+msgstr "گریدلاو ادسنس"
+
+#: ../core/widgets/adsense.php:67
+msgid "Leave empty for no title"
+msgstr "خالی به هیچ عنوان"
+
+#: ../core/widgets/adsense.php:71
+msgid "Adsense Code"
+msgstr "کد ادسنس"
+
+#: ../core/widgets/adsense.php:73
+msgid ""
+"Place your Google Adsense code or any JavaScript related advertising code."
+msgstr "محل کد گوگل ادسنس شما و یا هر کد تبلیغات مرتبط جاوا اسکریپت."
+
+#: ../core/widgets/adsense.php:79
+msgid "Expand widget area to 300px"
+msgstr "گسترش منطقه ویجت به 300px باشد"
+
+#: ../core/widgets/adsense.php:81
+msgid ""
+"Check this option if you are using 300px wide adsense so it can fit your "
+"widget area"
+msgstr ""
+"این گزینه اگر شما با استفاده از 300px باشد حستبلیغ گسترده ای پس از آن می "
+"توانید منطقه ویجت خود را متناسب"
+
+#: ../core/widgets/categories.php:14
+msgid "Display your category list with this widget"
+msgstr "نمایش لیست دسته خود را با این ویجت"
+
+#: ../core/widgets/categories.php:16
+msgid "Gridlove Categories"
+msgstr "دسته بندی ها Gridlove"
+
+#: ../core/widgets/categories.php:87
+msgid "Choose (re-order) categories:"
+msgstr "را انتخاب کنید (دوباره سفارش) مجموعه ها:"
+
+#: ../core/widgets/categories.php:96
+msgid "Type:"
+msgstr "نوع:"
+
+#: ../core/widgets/categories.php:97
+msgid "Full color"
+msgstr "تمام رنگی"
+
+#: ../core/widgets/categories.php:98
+msgid "Count color"
+msgstr "رنگ تعداد"
+
+#: ../core/widgets/categories.php:102
+msgid "Show post count?"
+msgstr "نمایش تعداد ارسال ها."
+
+#: ../core/widgets/posts.php:8
+msgid "Display your posts with this widget"
+msgstr "نمایش پست های خود را با این ویجت"
+
+#: ../core/widgets/posts.php:10
+msgid "Gridlove Posts"
+msgstr "گریدلاو پست"
+
+#: ../core/widgets/posts.php:216
+msgid "Number of posts to show"
+msgstr "تعداد پست های نمایش داده"
+
+#: ../core/widgets/posts.php:222
+msgid "Apply slider"
+msgstr "درخواست کشویی"
+
+#: ../core/widgets/posts.php:226
+msgid "Posts per slide"
+msgstr "میانگین پستها در طول اسلاید"
+
+#: ../core/widgets/posts.php:241
+msgid ""
+"Specify post ids separated by comma if you want to select only those posts. "
+"i.e. 213,32,12,45 Note: you can also choose pages as well as custom post "
+"types"
+msgstr ""
+"مشخص شناسه پست جدا شده توسط کاما اگر شما می خواهید را انتخاب کنید فقط کسانی "
+"که پست. به عنوان مثال 213،32،12،45 توجه: شما همچنین می توانید صفحات و همچنین "
+"انواع پست سفارشی را انتخاب کنید"
+
+#: ../core/widgets/posts.php:251
+msgid "Auto detect category"
+msgstr "شناسایی خودکار دسته"
+
+#: ../core/widgets/posts.php:252
+msgid ""
+"If sidebar is used on single post template, display posts from current post "
+"category "
+msgstr ""
+"اگر نوار کناری بر پست تنها قالب استفاده می شود، نمایش نوشته ها از دسته پست "
+"فعلی"
+
+#: ../core/widgets/posts.php:266
+msgid "Only select posts which are not older than"
+msgstr "پست فقط انتخاب کنید که مسن تر از نیست"
+
+#: ../core/widgets/posts.php:284
+msgid "Order by:"
+msgstr "سفارش توسط:"
+
+#: ../core/widgets/posts.php:298
+msgid "Format:"
+msgstr "فرمت:"
+
+#: ../core/widgets/posts.php:311
+msgid "Choose from:"
+msgstr "را انتخاب کنید از:"
+
+#: ../core/widgets/posts.php:321
+msgid "Small (list)"
+msgstr "کوچک (لیست)"
+
+#: ../core/widgets/posts.php:322
+msgid "Large"
+msgstr "بزرگ"
+
+#: ../core/widgets/posts.php:326
+msgid "Posts style:"
+msgstr "سبک پست ها:"
+
+#: ../core/widgets/posts.php:340
+msgid "Display meta data:"
+msgstr "نمایش داده های متا:"
+
+#: ../template-parts/header/side.php:17
+#, php-format
+msgid ""
+"Your Header Sidebar area is currently empty. Hurry up and <a href=\"%s\" "
+"target=\"_blank\">add some widgets</a>."
+msgstr ""
+"منطقه سربرگ نوار کناری خود را در حال حاضر خالی است. عجله کنید و <a href=\"%s"
+"\" target=\"_blank\">اضافه کردن برخی از ویدجت</a>."
+
+#: ../template-parts/header/elements/main-menu.php:7
+#: ../template-parts/header/elements/mobile-menu.php:6
+msgid "Click here to add main navigation"
+msgstr "اینجا را کلیک کنید برای اضافه کردن منو اصلی"
+
+#: ../template-parts/modules/empty.php:6
+msgid "Oooops!"
+msgstr "اوووووپس!"
+
+#: ../template-parts/modules/empty.php:13
+#, php-format
+msgid ""
+"You don't have any modules yet. Hurry up and <a href=\"%s\">create your "
+"first module</a>."
+msgstr ""
+"شما به هیچ ماژول نشده است. عجله کنید و <a href=\"%s\">ایجاد اولین ماژول خود "
+"را</a>."

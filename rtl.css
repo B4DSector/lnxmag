@@ -1,0 +1,137 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: "IRANSansWeb";
+    font-style: normal;
+    font-weight: 400;
+    src: local("IRANSansWeb"), local("fonts/IRANSansWeb"), url("fonts/IRANSansWeb.woff") format("woff"), url("fonts/IRANSansWeb.ttf") format("truetype"), url("fonts/IRANSansWeb.svg") format("svg");
+}
+
+
+
+
+
+html, body, div, p , input, textarea,option,select,a,span,b,li,ol{
+	  font-family: "IRANSansWeb" !important;
+	 font-weight: normal !important;
+}
+
+h1, h2, h3, h4, h5, h6{
+	  font-family: "IRANSansWeb" !important;
+	
+}
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a{
+	  font-family: "IRANSansWeb" !important;
+	 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.box-col-b {
+    margin: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+mc-field-group {
+}
+
+.fa {
+    font-family: FontAwesome !important;
+}
+.gridlove-next-link .gridlove-pn-ico {
+    margin-left: 90% !important;
+    margin-right: -93% !important;
+}
+.gridlove-pn-ico {
+    margin-left: -93% !important;
+    margin-right: 90% !important;
+}
+
+
+
+.owl-prev{
+}
+.owl-next{
+}
+
+.gridlove-cover-slider.gridlove-cover-arrows-middle .owl-controls .owl-nav > .owl-prev {
+    right: 97% !important;
+}
+.overlay-vh-center {
+    right: 0 !important;
+}
+.gridlove-link-pages a, .gridlove-link-pages span, .gridlove-pagination .page-numbers {
+    text-align: center !important;
+}
+
+.owl-prev{
+    right: 101% !important;
+
+}
+
+
+.gridlove-header-top li {
+    margin: 0 8px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 1040px) {
+
+
+.owl-prev {
+    right: 98% !important;
+}
+.gallery-columns-1 .owl-next {
+    position: absolute;
+    right: 50px;
+}
+
+
+
+
+
+
+}
+
+
+
+@media (min-width: 1304px) {
+
+
+.gridlove-cover-slider.gridlove-cover-arrows-middle .owl-controls .owl-nav > .owl-prev {
+    right: 101% !important;
+}
+
+
+
+}
+
